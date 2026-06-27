@@ -33,4 +33,4 @@ Neglected Content (Original to source cores):
 
 For the short list of issues I had in mind from the project's final days, Check the known issues file.
 For the full public changelog leading up to the october 6 2023 release, check the file next to the main readme.
-For website support with this core, contact the core's primary web developer Darksider (Discord: d4rksid3r, 172643476029177856)
+For website support with this core.
